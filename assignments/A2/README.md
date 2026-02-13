@@ -2,7 +2,7 @@
 
 ## Due Date
 
-03/04/2026 at 11:59PM EST (Both programming and written parts).
+03/04/2026 at 11:59PM EST (both programming and written parts).
 
 ## Getting Started
 
